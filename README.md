@@ -1,4 +1,3 @@
 # mlops-zoomcamp-avi
 
-This is an example1
-
+This is an example
